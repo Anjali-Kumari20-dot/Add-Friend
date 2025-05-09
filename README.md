@@ -1,5 +1,5 @@
-# Add-Friend
-Friend Connect Card 💙
+# Friend Connect Card 💙
+
 A simple interactive card that lets users toggle between "Awaiting Connection" and "Friend Added!" statuses with a button click. Built with HTML, CSS, and JavaScript, this project features a clean UI and smooth transitions.
 
 🚀 Features
